@@ -1,6 +1,6 @@
 {
   "base_url": "https://lapremierebrique.crisp.help/fr/",
-  "scraped_at": "2026-05-03T07:16:17+00:00",
+  "scraped_at": "2026-05-10T07:24:42+00:00",
   "stats": {
     "category_count": 7,
     "article_count": 56,
@@ -439,18 +439,18 @@
           "content_hash": "abddefdafadaade6"
         },
         {
-          "title": "Quelle utilisation est faite de mes informations personnelles ?",
-          "url": "https://lapremierebrique.crisp.help/fr/article/quelle-utilisation-est-faite-de-mes-informations-personnelles-11sf3pw/",
-          "slug": "quelle-utilisation-est-faite-de-mes-informations-personnelles-11sf3pw",
-          "content_md": "Articles sur : [Assistance et sécurité 🔒](/fr/category/assistance-et-securite-izfspn/)\n\n# Quelle utilisation est faite de mes informations personnelles ?\n\nVos données personnelles sont utilisées pour vous communiquer trois informations :\n\n- La sortie de nouveaux projets pour pouvoir investir dans les meilleures conditions\n- L'avancée des projets dans lesquels vous avez investi, pour suivre la concrétisation de votre investissement ; et\n- ${color}[#000000](Les informations sur l'actualité de La Première Brique pour entretenir le lien avec notre communauté.\n\nNous sommes les premiers à bloquer les mails inutiles et attachons donc une grande importance à ce que chacun de nos mails qui vous sont adressés vous concerne réellement et soit important. Notre objectif, vous le savez, c'est de vous faire vivre une expérience d')investissement fun et performante. Les spams à répétition n'ont pas leur place dans cette équation !\n\nEn outre, notre prestataire de services de paiement sécurisé, a accès à vos informations pour des raisons réglementaires et jamais, nous ne les monétiserons. Si vous souhaitez les effacer suite à une suppression de compte, un simple mail suffit !\n\nMis à jour le : 01/10/2025",
-          "content_hash": "81aa8cd270f9a33b"
-        },
-        {
           "title": "Pourquoi ma demande de débit se décompose en plusieurs lignes ?",
           "url": "https://lapremierebrique.crisp.help/fr/article/pourquoi-ma-demande-de-debit-se-decompose-en-plusieurs-lignes-f3rqxy/",
           "slug": "pourquoi-ma-demande-de-debit-se-decompose-en-plusieurs-lignes-f3rqxy",
           "content_md": "Articles sur : [Assistance et sécurité 🔒](/fr/category/assistance-et-securite-izfspn/)\n\n# Pourquoi ma demande de débit se décompose en plusieurs lignes ?\n\nChez La Première Brique, vous le savez, ****la sécurité est notre priorité.****\n\nDès lors, quand on a vu que les porte-monnaie pouvait être créés par des petits malins pour effectuer des tentatives de fraude à la CB, ça ne nous a pas plu du tout !\n\nC’est la raison pour laquelle, en accord avec notre souci constant d’une plus grande sécurité des flux, nous avons mis en place le rechargement direct sur le moyen de paiement.\n\n\\*\\*Comment ça marche ? \\*\\*\n\nLorsque vous effectuez un paiement par CB et que, sans aucune activité sur votre compte, vous débitez votre compte, le débit est automatique dirigé vers la CB utilisée, à hauteur du montant rechargé.\n\nAssez de mot, place à l’exemple chiffré ! 🤓\n\nVous faites un rechargement par virement de 1.000 €, puis un rechargement CB de 500 €.\n\nSuite à cela et sans investir sur la Première Brique, c’est Noël et vous voulez faire des cadeaux par centaines : vous débitez 800 €.\n\n500 € seront dirigés vers votre CB qui a initialement réalisé le crédit.\n\n300 € seront dirigés vers votre compte de virement classique.\n\nMis à jour le : 29/08/2024",
           "content_hash": "3830e03b011fe4a3"
+        },
+        {
+          "title": "Quelle utilisation est faite de mes informations personnelles ?",
+          "url": "https://lapremierebrique.crisp.help/fr/article/quelle-utilisation-est-faite-de-mes-informations-personnelles-11sf3pw/",
+          "slug": "quelle-utilisation-est-faite-de-mes-informations-personnelles-11sf3pw",
+          "content_md": "Articles sur : [Assistance et sécurité 🔒](/fr/category/assistance-et-securite-izfspn/)\n\n# Quelle utilisation est faite de mes informations personnelles ?\n\nVos données personnelles sont utilisées pour vous communiquer trois informations :\n\n- La sortie de nouveaux projets pour pouvoir investir dans les meilleures conditions\n- L'avancée des projets dans lesquels vous avez investi, pour suivre la concrétisation de votre investissement ; et\n- ${color}[#000000](Les informations sur l'actualité de La Première Brique pour entretenir le lien avec notre communauté.\n\nNous sommes les premiers à bloquer les mails inutiles et attachons donc une grande importance à ce que chacun de nos mails qui vous sont adressés vous concerne réellement et soit important. Notre objectif, vous le savez, c'est de vous faire vivre une expérience d')investissement fun et performante. Les spams à répétition n'ont pas leur place dans cette équation !\n\nEn outre, notre prestataire de services de paiement sécurisé, a accès à vos informations pour des raisons réglementaires et jamais, nous ne les monétiserons. Si vous souhaitez les effacer suite à une suppression de compte, un simple mail suffit !\n\nMis à jour le : 01/10/2025",
+          "content_hash": "81aa8cd270f9a33b"
         }
       ],
       "article_count": 8
