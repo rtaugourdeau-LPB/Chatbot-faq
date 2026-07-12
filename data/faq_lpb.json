@@ -1,6 +1,6 @@
 {
   "base_url": "https://lapremierebrique.crisp.help/fr/",
-  "scraped_at": "2026-07-05T07:54:25+00:00",
+  "scraped_at": "2026-07-12T07:27:38+00:00",
   "stats": {
     "category_count": 7,
     "article_count": 61,
@@ -34,6 +34,13 @@
           "content_hash": "5f0835913d59814a"
         },
         {
+          "title": "Locatif : Concrètement comment ça fonctionne ?",
+          "url": "https://lapremierebrique.crisp.help/fr/article/locatif-concretement-comment-ca-fonctionne-wikc59/",
+          "slug": "locatif-concretement-comment-ca-fonctionne-wikc59",
+          "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Concrètement comment ça fonctionne ?\n\nNotre produit locatif se déroule en 3 étapes : entrée, détention, sortie.\n\n### L'entrée\n\nVous vous connectez à votre espace personnel et vous choisissez un actif parmi ceux portant la mention \"locatif\"  \nAprès avoir pris connaissance du projet, vous investissez directement depuis la plateforme ou depuis notre application mobile, à partir de 1 € seulement.  \nUne fois validé, votre investissement est affecté à l’actif choisi. Vous percevez les revenus du bien au prorata de votre participation.\n\n### La détention\n\nChaque mois, les loyers sont encaissés et après paiement des charges et des frais de gestion, le solde est redistribué aux investisseurs sous forme de revenus mensuels, directement sur leur porte-monnaie La Première Brique.\n\nLa Première Brique suit les flux en temps réel grâce à l’open banking, ce qui permet une visibilité complète et un contrôle sur le compte bancaire de l’opération. Des reportings trimestriels sont ensuite transmis aux investisseurs.  \nPour certaines dépenses importantes (travaux conséquents, investissements de valorisation, changement de stratégie…), les décisions sont soumises au vote des investisseurs afin de renforcer la transparence et la gouvernance du produit.\n\n### La sortie\n\nLa durée d’un investissement est de 60 mois.\n\nÀ partir du 42ᵉ mois, la mise en vente du bien est obligatoirement lancée pour organiser la sortie dans de bonnes conditions. Une vente peut aussi intervenir plus tôt si le marché est favorable.\n\nSi aucun acheteur n’est trouvé à l’échéance, notre partenaire MyVesta peut mettre en place un refinancement de l’actif.\n\n****Dans tous les cas, l’objectif est clair : permettre la sortie des investisseurs à 60 mois maximum.****\n\n## \n\nMis à jour le : 27/05/2026",
+          "content_hash": "3b7a6772ec9d58f9"
+        },
+        {
           "title": "Quelle est la différence entre rendement mensuel reversé et performance cible ?",
           "url": "https://lapremierebrique.crisp.help/fr/article/quelle-est-la-difference-entre-rendement-mensuel-reverse-et-performance-cible-7tgbr8/",
           "slug": "quelle-est-la-difference-entre-rendement-mensuel-reverse-et-performance-cible-7tgbr8",
@@ -46,13 +53,6 @@
           "slug": "quelle-difference-avec-une-scpi-brte2l",
           "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Quelle différence avec une SCPI ?\n\nLe produit locatif de La Première Brique et une SCPI reposent tous les deux sur un principe simple : investir dans l’immobilier et percevoir des revenus réguliers.  \nMais leur fonctionnement est différent !\n\n### Le point commun\n\nDans les deux cas, vous investissez dans de l’immobilier locatif et vous touchez des revenus issus des loyers.\n\n### Les différences\n\n###### 1. Le type d’investissement\n\n- ****SCPI**** : vous investissez dans un portefeuille mutualisé de nombreux biens immobiliers\n- ****Locatif avec LPB**** : vous investissez sur des actifs identifiés, avec une localisation et un locataire précis\n\n###### 2. La visibilité\n\n- ****SCPI**** : vision globale d’un parc immobilier\n- ****Locatif avec LPB**** : visibilité directe sur chaque actif financé et ses flux\n\n###### 3. Les revenus\n\n- ****SCPI**** : distribution de revenus selon la performance globale du fonds\n- ****Locatif avec LPB**** : revenus issus directement des loyers de l’actif, versés mensuellement\n\n###### 4. La durée\n\n- ****SCPI**** : horizon long sans durée contractuelle fixe\n- ****Locatif avec LPB**** : durée définie de 60 mois avec une sortie encadrée\n\n### En résumé\n\nLa SCPI propose une approche mutualisée et diversifiée de l’immobilier locatif.  \nLe produit locatif de La Première Brique propose une approche plus directe et moderne, structurée autour d’actifs identifiés et d’une durée d’investissement définie.\n\nMis à jour le : 27/05/2026",
           "content_hash": "43d687128cde13d1"
-        },
-        {
-          "title": "Locatif : Concrètement comment ça fonctionne ?",
-          "url": "https://lapremierebrique.crisp.help/fr/article/locatif-concretement-comment-ca-fonctionne-wikc59/",
-          "slug": "locatif-concretement-comment-ca-fonctionne-wikc59",
-          "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Concrètement comment ça fonctionne ?\n\nNotre produit locatif se déroule en 3 étapes : entrée, détention, sortie.\n\n### L'entrée\n\nVous vous connectez à votre espace personnel et vous choisissez un actif parmi ceux portant la mention \"locatif\"  \nAprès avoir pris connaissance du projet, vous investissez directement depuis la plateforme ou depuis notre application mobile, à partir de 1 € seulement.  \nUne fois validé, votre investissement est affecté à l’actif choisi. Vous percevez les revenus du bien au prorata de votre participation.\n\n### La détention\n\nChaque mois, les loyers sont encaissés et après paiement des charges et des frais de gestion, le solde est redistribué aux investisseurs sous forme de revenus mensuels, directement sur leur porte-monnaie La Première Brique.\n\nLa Première Brique suit les flux en temps réel grâce à l’open banking, ce qui permet une visibilité complète et un contrôle sur le compte bancaire de l’opération. Des reportings trimestriels sont ensuite transmis aux investisseurs.  \nPour certaines dépenses importantes (travaux conséquents, investissements de valorisation, changement de stratégie…), les décisions sont soumises au vote des investisseurs afin de renforcer la transparence et la gouvernance du produit.\n\n### La sortie\n\nLa durée d’un investissement est de 60 mois.\n\nÀ partir du 42ᵉ mois, la mise en vente du bien est obligatoirement lancée pour organiser la sortie dans de bonnes conditions. Une vente peut aussi intervenir plus tôt si le marché est favorable.\n\nSi aucun acheteur n’est trouvé à l’échéance, notre partenaire MyVesta peut mettre en place un refinancement de l’actif.\n\n****Dans tous les cas, l’objectif est clair : permettre la sortie des investisseurs à 60 mois maximum.****\n\n## \n\nMis à jour le : 27/05/2026",
-          "content_hash": "3b7a6772ec9d58f9"
         },
         {
           "title": "Locatif : Quel est le montant minimum d’investissement ?",
