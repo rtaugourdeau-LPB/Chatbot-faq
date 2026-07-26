@@ -1,6 +1,6 @@
 {
   "base_url": "https://lapremierebrique.crisp.help/fr/",
-  "scraped_at": "2026-07-19T07:25:11+00:00",
+  "scraped_at": "2026-07-26T07:33:52+00:00",
   "stats": {
     "category_count": 7,
     "article_count": 61,
@@ -55,18 +55,18 @@
           "content_hash": "43d687128cde13d1"
         },
         {
-          "title": "Locatif : Quel est le montant minimum d’investissement ?",
-          "url": "https://lapremierebrique.crisp.help/fr/article/locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv/",
-          "slug": "locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv",
-          "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Quel est le montant minimum d’investissement ?\n\nParce que l’immobilier ne devrait pas être réservé à une poignée de privilégiés et parce qu’on croit qu’en démocratisant l’investissement, on participe à un changement plus grand : celui d’une finance plus ouverte, plus humaine, et plus concrète\n\nChez La Première Brique, il y a une chose à laquelle on tient particulièrement : ****l’investissement immobilier accessible dès 1 €.**** Et le produit locatif MyVesta x LPB ne fait pas exception !\n\nMis à jour le : 27/05/2026",
-          "content_hash": "631e00dcadf56fa7"
-        },
-        {
           "title": "Locatif : Comment se rémunère La Première Brique ?",
           "url": "https://lapremierebrique.crisp.help/fr/article/locatif-comment-se-remunere-la-premiere-brique-836zui/",
           "slug": "locatif-comment-se-remunere-la-premiere-brique-836zui",
           "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Comment se rémunère La Première Brique ?\n\nSur le produit locatif, La Première Brique se rémunère auprès de la société qui porte l’actif immobilier, et non directement auprès des investisseurs.  \nNotre rémunération repose sur trois éléments.\n\n### Des frais d’entrée\n\nLa Première Brique perçoit des frais de structuration et de distribution correspondant à ****5% HT du montant collecté****. Ces frais rémunèrent notamment l’analyse du projet, sa structuration, sa mise en ligne, sa distribution auprès de la communauté d’investisseurs et la gestion de la collecte.\n\n### Des frais de suivi pendant la durée du projet\n\nPendant la durée de l’opération, La Première Brique perçoit une quote-part des frais de gestion, correspondant à ****2,5% HT des loyers encaissés**** par la société portant l’actif. Ces frais rémunèrent le suivi de l’opération, la relation investisseurs, le reporting et la mise à disposition de la plateforme\n\n### Une rémunération en cas de surperformance\n\nÀ la revente de l’actif, si l’opération génère une performance supérieure au remboursement du capital investi, la valeur créée au-delà de ce seuil est partagée entre les différentes parties prenantes.  \nDans ce cadre, LPB peut percevoir 1/3 de cette surperformance.  \nCe mécanisme permet ****d’aligner les intérêts entre les investisseurs, l’opérateur immobilier et La Première Brique****  \nLa Première Brique ne bénéficie de cette rémunération complémentaire que si le projet crée réellement de la valeur au-delà du capital remboursé.\n\n###### \n\nMis à jour le : 27/05/2026",
           "content_hash": "336cebb63c2cd7f2"
+        },
+        {
+          "title": "Locatif : Quel est le montant minimum d’investissement ?",
+          "url": "https://lapremierebrique.crisp.help/fr/article/locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv/",
+          "slug": "locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv",
+          "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Quel est le montant minimum d’investissement ?\n\nParce que l’immobilier ne devrait pas être réservé à une poignée de privilégiés et parce qu’on croit qu’en démocratisant l’investissement, on participe à un changement plus grand : celui d’une finance plus ouverte, plus humaine, et plus concrète\n\nChez La Première Brique, il y a une chose à laquelle on tient particulièrement : ****l’investissement immobilier accessible dès 1 €.**** Et le produit locatif MyVesta x LPB ne fait pas exception !\n\nMis à jour le : 27/05/2026",
+          "content_hash": "631e00dcadf56fa7"
         },
         {
           "title": "Qui est MyVesta ?",
