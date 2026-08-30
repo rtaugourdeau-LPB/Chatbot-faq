@@ -1,6 +1,6 @@
 {
   "base_url": "https://lapremierebrique.crisp.help/fr/",
-  "scraped_at": "2026-08-23T05:25:05+00:00",
+  "scraped_at": "2026-08-30T10:15:16+00:00",
   "stats": {
     "category_count": 7,
     "article_count": 62,
@@ -55,6 +55,13 @@
           "content_hash": "43d687128cde13d1"
         },
         {
+          "title": "Locatif : Quel est le montant minimum d’investissement ?",
+          "url": "https://lapremierebrique.crisp.help/fr/article/locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv/",
+          "slug": "locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv",
+          "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Quel est le montant minimum d’investissement ?\n\nParce que l’immobilier ne devrait pas être réservé à une poignée de privilégiés et parce qu’on croit qu’en démocratisant l’investissement, on participe à un changement plus grand : celui d’une finance plus ouverte, plus humaine, et plus concrète\n\nChez La Première Brique, il y a une chose à laquelle on tient particulièrement : ****l’investissement immobilier accessible dès 1 €.**** Et le produit locatif MyVesta x LPB ne fait pas exception !\n\nMis à jour le : 27/05/2026",
+          "content_hash": "631e00dcadf56fa7"
+        },
+        {
           "title": "Locatif : Comment se rémunère La Première Brique ?",
           "url": "https://lapremierebrique.crisp.help/fr/article/locatif-comment-se-remunere-la-premiere-brique-836zui/",
           "slug": "locatif-comment-se-remunere-la-premiere-brique-836zui",
@@ -67,13 +74,6 @@
           "slug": "locatif-quelles-sont-les-garanties-pc1egz",
           "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Quelles sont les garanties ?\n\nComme tout investissement immobilier, le locatif comporte des risques. En revanche, plusieurs mécanismes ont été mis en place pour encadrer et sécuriser le fonctionnement des projets.\n\n## La fiducie-sûreté sur les sociétés de projet\n\nLes actifs immobiliers et les flux sont isolés dans un patrimoine indépendant géré par un cabinet d'avocat qui détient les titres des sociétés de projet pendant le financement. Cela permet de protéger les investisseurs en cas de difficulté de l’opérateur.\n\n## La fiducie-sureté sur la société mère\n\nElle assure la continuité de la gestion des actifs si MyVesta n’est plus en mesure de les gérer. L’objectif est d’éviter toute interruption dans l’exploitation du bien.\n\n## Les garanties liées au locataire\n\nLes biens sont loués à des locataires professionnels, avec des protections contractuelles classiques du bail commercial (dépôt de garantie, engagements contractuels, recours en cas de défaillance).\n\n## La transparence des flux\n\nChaque actif dispose d’un compte dédié suivi en temps réel via l’open banking. Les investisseurs ont une visibilité régulière sur les loyers encaissés, les charges et la trésorerie.\n\n## Le vote des investisseurs\n\nAu-delà de certains seuils de dépenses, les décisions importantes sont soumises au vote des investisseurs, renforçant la gouvernance et la transparence.\n\n## En résumé\n\nIl n’existe pas de garantie unique, mais un ensemble de mécanismes qui visent à encadrer le projet :\n\n- protection via les fiducies\n- sécurisation contractuelle des locataires\n- transparence des flux\n- gouvernance partagée\n\n****Ces dispositifs ne suppriment pas le risque, mais ils contribuent à mieux le structurer et à le piloter dans le temps.****\n\nMis à jour le : 27/05/2026",
           "content_hash": "2dbee6496daca623"
-        },
-        {
-          "title": "Locatif : Quel est le montant minimum d’investissement ?",
-          "url": "https://lapremierebrique.crisp.help/fr/article/locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv/",
-          "slug": "locatif-quel-est-le-montant-minimum-dinvestissement-kiw0mv",
-          "content_md": "Articles sur : [Découvrez le Locatif](/fr/category/decouvrez-le-locatif-blkyi9/)\n\n# Locatif : Quel est le montant minimum d’investissement ?\n\nParce que l’immobilier ne devrait pas être réservé à une poignée de privilégiés et parce qu’on croit qu’en démocratisant l’investissement, on participe à un changement plus grand : celui d’une finance plus ouverte, plus humaine, et plus concrète\n\nChez La Première Brique, il y a une chose à laquelle on tient particulièrement : ****l’investissement immobilier accessible dès 1 €.**** Et le produit locatif MyVesta x LPB ne fait pas exception !\n\nMis à jour le : 27/05/2026",
-          "content_hash": "631e00dcadf56fa7"
         },
         {
           "title": "Qui est MyVesta ?",
