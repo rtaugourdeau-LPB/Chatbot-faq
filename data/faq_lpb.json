@@ -1,10 +1,10 @@
 {
   "base_url": "https://lapremierebrique.crisp.help/fr/",
-  "scraped_at": "2026-09-20T09:35:12+00:00",
+  "scraped_at": "2026-09-27T10:20:58+00:00",
   "stats": {
     "category_count": 7,
-    "article_count": 60,
-    "total_content_chars": 82108
+    "article_count": 61,
+    "total_content_chars": 83760
   },
   "categories": [
     {
@@ -131,9 +131,16 @@
           "slug": "comment-la-premiere-brique-se-remunere-no9xlj",
           "content_md": "## Pas de cachotteries entre nous !\n\nLa Première Brique se rémunère via une commission versée par les porteurs de projets lors de la ****clôture de la collecte des fonds****. Ce modèle permet à La Première Brique de proposer une expérience d'investissement ****sans frais**** pour les investisseurs tout en garantissant aux porteurs de projets un coût intégré et anticipé dans leur plan de financement.\n\nNotre activité repose ainsi sur la réussite des collectes et la sélection de projets solides, essentiels pour maintenir la confiance de nos investisseurs.\n\n💡 Les frais applicables sont toujours précisés dans la documentation contractuelle avant chaque investissement.\n\nMis à jour le : 19/05/2026",
           "content_hash": "60d11610438f7a93"
+        },
+        {
+          "title": "Comment me former à l'investissement et l'immobilier ?",
+          "url": "https://lapremierebrique.crisp.help/fr/article/comment-me-former-a-linvestissement-et-limmobilier-14njl5q/",
+          "slug": "comment-me-former-a-linvestissement-et-limmobilier-14njl5q",
+          "content_md": "Vous vous demandez comment placer la première brique de vos connaissances en investissement et en immobilier ?\n\nBonne nouvelle : pas besoin d'un bac+5 en finance ni de dévorer des dizaines de manuels indigestes pour commencer à comprendre le crowdfunding, la constitution d'un patrimoine solide ou des sujets bien plus vastes d’ailleurs.\n\n****L'éducation financière, ça ne devrait jamais être un chantier****  \nTrop souvent, le monde de l'investissement immobilier donne l'impression d'un jargon réservé aux initiés. Chez La Première Brique, nous pensons l'inverse : plus vous comprenez ce que vous faites, plus vos décisions sont solides. Et une décision solide, ça commence toujours par les fondations.\n\n****Notre outil pédagogique : notre podcast IMMOTEP****  \nC'est exactement pour cela que nous avons lancé ****IMMOTEP****, notre podcast qui parle d'investissement et d'immobilier, simplement. Un nom qui n'est pas choisi au hasard : comme son inspiration égyptienne, il s'agit de bâtir quelque chose qui dure, brique après brique, épisode après épisode.  \nPas de blabla superflu, pas de promesses en toc : inspirer vous et apprenez grâce à l’intervention de porteur de projets, d’investisseurs, d’entrepreneurs… De toutes les personnes qui pourront vous apporter de la connaissance via leur profession, leur vie, et leur anecdotes.\n\n****Alors, on écoute ?****  \nS'éduquer, ce n'est pas sorcier : il suffit d'appuyer sur play.  \n[Retrouvez IMMOTEP](https://smartlink.ausha.co/immotep) sur votre plateforme d'écoute préférée, et construisez, épisode après épisode, vos connaissances sur l’investissement et l’immobilier.\n\nMis à jour le : 25/09/2026",
+          "content_hash": "bcbd5fdb0a5054ae"
         }
       ],
-      "article_count": 5
+      "article_count": 6
     },
     {
       "name": "Inscription et premiers pas 🧐En route pour devenir un Briqueur (doux nom donné aux investisseurs sur La Première Brique).",
